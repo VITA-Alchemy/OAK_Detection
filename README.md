@@ -20,4 +20,4 @@ depthai   2.13.3.0
 https://docs.oakchina.cn/en/latest/
 https://github.com/RangiLyu/nanodet
 https://github.com/hpc203/nanodet-plus-opencv
-``
+```
