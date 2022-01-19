@@ -21,4 +21,5 @@ https://docs.oakchina.cn/en/latest/
 https://github.com/RangiLyu/nanodet
 https://github.com/hpc203/nanodet-plus-opencv
 https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+https://blog.csdn.net/nihate/article/details/112731327?spm=1001.2014.3001.5502
 ```
